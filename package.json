@@ -1,0 +1,22 @@
+{
+  "name": "tea-demo-arsen",
+  "version": "1.0.0",
+  "description": "My first package in NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArsenSysyn/tea-demo.git"
+  },
+  "author": "ArsenSysyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArsenSysyn/tea-demo/issues"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "homepage": "https://github.com/ArsenSysyn/tea-demo#readme"
+}
